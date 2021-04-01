@@ -5,8 +5,8 @@ drive_folder_name = "MoviEzonLy_DRIVE"
 
 
 # Enter Your Mega email And Pass (Required)
-MEGA_EMAIL = "bearyan8@yandex.com"
-MEGA_PASSWORD = "bearyan8@yandex.com"
+MEGA_EMAIL = "jp29hack@gmail.com"
+MEGA_PASSWORD = "jasperpra"
 
 
 START = " Hello {}  \n\n*I'm a Simple Drive Uploader Bot*.\nPlease Authorise me using /auth \n\n For more info > /help \n\n Join @MovieZonLysuPpoRt for any queries!"
